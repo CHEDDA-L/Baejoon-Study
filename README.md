@@ -1,2 +1,3 @@
 # Baekjoon-Study
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+백준 공부
+[BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
